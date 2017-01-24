@@ -1,2 +1,0 @@
-# AIMS1
-Project
